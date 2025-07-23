@@ -1,4 +1,4 @@
-# Estudo Dirigido : Controle e Automação - 2025.1
+# Estudo Dirigido : Controle e Automação -- 2025.1
 
 Este repositório contém os textos, códigos e simulações desenvolvidos como parte do estudo dirigido para a disciplina de **Controle e Automação** no semestre 2025.1. O objetivo principal desta atividade é aplicar os conceitos práticos da disciplina por meio de resumos teóricos e simulações computacionais.
 
